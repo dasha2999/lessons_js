@@ -1,0 +1,15 @@
+.btn {
+    padding: 15px;
+    border: none;
+    outline: none;
+    background-color: brown;
+    color: aliceblue;
+    text-transform: uppercase;
+    border-radius: 20px;
+}
+
+.btn.test {
+color: brown;
+background-color: #fff;
+border: 1px solid brown;
+}
