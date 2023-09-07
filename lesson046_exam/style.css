@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.inridients {
+    list-style: none;
+}
+
+.ingridients_button {
+    margin: 10px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.highlight {
+    text-decoration: underline;
+}
